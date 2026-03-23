@@ -1,2 +1,2 @@
 # lucide-icon-iconfont
-lucide-icon在 iconfont的库, 放在iconfont上是为了让小程序也支持lucide-icon
+lucide-icon在 iconfont的库, 放在iconfont上是为了让小程序也支持lucide-icon https://www.iconfont.cn/collections/detail?cid=53746
